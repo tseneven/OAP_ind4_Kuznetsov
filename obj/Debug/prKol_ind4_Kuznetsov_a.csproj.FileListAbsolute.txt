@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\bin\Debug\prKol_ind4_Kuznetsov_a.exe.config
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\bin\Debug\prKol_ind4_Kuznetsov_a.exe
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\bin\Debug\prKol_ind4_Kuznetsov_a.pdb
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.Form1.resources
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.Properties.Resources.resources
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.exe
+C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.pdb
