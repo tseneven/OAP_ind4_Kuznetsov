@@ -125,6 +125,7 @@ namespace prKol_ind4_Kuznetsov_a
             this.DeleteInSet.TabIndex = 8;
             this.DeleteInSet.Text = "Удалить из Сета";
             this.DeleteInSet.UseVisualStyleBackColor = true;
+            this.DeleteInSet.Click += new System.EventHandler(this.DeleteInSet_Click);
             // 
             // DeleteInCatalogSet
             // 
@@ -134,6 +135,7 @@ namespace prKol_ind4_Kuznetsov_a
             this.DeleteInCatalogSet.TabIndex = 9;
             this.DeleteInCatalogSet.Text = "Удалить из каталога";
             this.DeleteInCatalogSet.UseVisualStyleBackColor = true;
+            this.DeleteInCatalogSet.Click += new System.EventHandler(this.DeleteInCatalogSet_Click);
             // 
             // textBox2
             // 
@@ -180,6 +182,7 @@ namespace prKol_ind4_Kuznetsov_a
             this.Controls.Add(this.listBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

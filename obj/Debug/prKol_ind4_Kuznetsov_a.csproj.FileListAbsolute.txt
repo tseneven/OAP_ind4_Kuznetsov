@@ -8,3 +8,13 @@ C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_i
 C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.CoreCompileInputs.cache
 C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.exe
 C:\Users\305-7\Desktop\Кузнецов\prKol_ind4_Kuznetsov_a\obj\Debug\prKol_ind4_Kuznetsov_a.pdb
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\bin\Debug\prKol_ind4_Kuznetsov_a.exe.config
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\bin\Debug\prKol_ind4_Kuznetsov_a.exe
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\bin\Debug\prKol_ind4_Kuznetsov_a.pdb
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.AssemblyReference.cache
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.Form1.resources
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.Properties.Resources.resources
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.GenerateResource.cache
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.csproj.CoreCompileInputs.cache
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.exe
+C:\Users\Neven\Desktop\OAP_ind4_Kuznetsov-main\obj\Debug\prKol_ind4_Kuznetsov_a.pdb
